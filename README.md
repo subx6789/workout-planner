@@ -31,7 +31,7 @@ Ensure you have the following installed on your machine:
 
 - Navigate to the project directory:
    ```sh
-   cd Workout-planner
+   cd workout-planner
    ```
 
 - Install the dependencies:
@@ -68,3 +68,6 @@ Contributions are greatly appreciated! Here’s how you can help:
 - Commit your changes (git commit -m 'Add some AmazingFeature').
 - Push to the branch (git push origin feature/AmazingFeature).
 - Open a pull request.
+
+# My App
+- **Link:** [SWOLENORMOUS](https://workout-planner-by-subhajit.netlify.app/)
