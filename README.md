@@ -26,7 +26,7 @@ Ensure you have the following installed on your machine:
 
 - Clone the repository:
    ```sh
-   git clone https://github.com/your-username/Workout-planner.git
+   git clone https://github.com/subx6789/workout-planner.git
    ```
 
 - Navigate to the project directory:
